@@ -1,9 +1,12 @@
 p{
     color: aqua;
+    background-color: blue;
 }
 h1{
     background-color: beige;
+    color: blue;
 }
 h3{
     color: blue;
+    background-color: red;
 }
